@@ -14,3 +14,5 @@
 > Expected Output :
 > mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy, dd/mm/yyyy
 
+## Exercise 4.
+> Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar. 

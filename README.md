@@ -29,3 +29,6 @@
 Expected Output :
 60°C is 140 °F
 45°F is 7.222222222222222°C
+
+## Exercise 8.
+> Write a JavaScript exercise to get the extension of a filename.

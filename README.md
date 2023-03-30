@@ -32,3 +32,7 @@ Expected Output :
 
 ## Exercise 8.
 > Write a JavaScript exercise to get the extension of a filename.
+
+## Exercise 9.
+> Write a JavaScript program to get the website URL (loading page).
+

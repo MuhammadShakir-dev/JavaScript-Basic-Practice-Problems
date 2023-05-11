@@ -1,5 +1,15 @@
 # JavaScript-Basic-Practice-Problems
-> This repository have all necessary JavaScript basics practice problems.
+This repository simply helps developer who wants to practice JavaScript. This repositoty have multiple Javascript paractice problems with there solution.
+
+## Note.
+Feel free to contribute to this repository.
+
+## Future Plans.
+In future i will add some alot more practice questions to this repository including.
+1. Advanced JavaScript.
+2. JavaScript DOM.
+3. JavaScript Validations.
+4. DSA in JavaScrpit.
 
 ## Exercise 1.
 > Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
